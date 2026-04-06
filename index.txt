@@ -12,7 +12,7 @@ Email
 richard@example.com
 
 Phone
-
++1 
 
 Birthday
 December, 1992
